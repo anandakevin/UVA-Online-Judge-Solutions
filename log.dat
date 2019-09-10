@@ -1,0 +1,68 @@
+
+********************************************************************************
+Tuesday, January 29, 2019 | 10:58:51 AM => Delegate to an instance method cannot have null 'this'. => Interactivity|DefaultUsernameChanged()
+Tuesday, January 29, 2019 | 10:58:51 AM => UVA Arena started => Main Form
+Tuesday, January 29, 2019 | 10:58:53 AM => Downloaded problem database file => __DownloadProblemDatabaseCompleted
+Tuesday, January 29, 2019 | 10:58:54 AM => Initialized all controls => Main Form
+Tuesday, January 29, 2019 | 10:58:55 AM => Downloaded problem's categories. => __DownloadProblemCategoryCompleted
+Tuesday, January 29, 2019 | 10:58:56 AM => Downloaded Category file: Contest Problems.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 10:58:56 AM => Downloaded Category file: AOAPC Problems.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 10:58:57 AM => Downloaded Category file: Competitive Programming.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 10:58:57 AM => Downloaded Category file: Programming Chanllenges.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 10:58:57 AM => Update Checked : This is the latest version. => Interactivity|UpdateFound()
+Tuesday, January 29, 2019 | 11:00:23 AM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 11:01:29 AM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 1:29:04 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 1:42:08 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 2:53:47 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+
+********************************************************************************
+Tuesday, January 29, 2019 | 5:28:09 PM => UVA Arena started => Main Form
+Tuesday, January 29, 2019 | 5:28:10 PM => Downloaded problem's categories. => __DownloadProblemCategoryCompleted
+Tuesday, January 29, 2019 | 5:28:11 PM => Downloaded Category file: Contest Problems.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 5:28:12 PM => Downloaded Category file: AOAPC Problems.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 5:28:12 PM => Downloaded Category file: Competitive Programming.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 5:28:13 PM => Downloaded Category file: Programming Chanllenges.cat => __DownloadCategoryFileCompleted
+Tuesday, January 29, 2019 | 5:28:13 PM => Initialized all controls => Main Form
+Tuesday, January 29, 2019 | 5:28:15 PM => Update Checked : This is the latest version. => Interactivity|UpdateFound()
+Tuesday, January 29, 2019 | 5:28:58 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:29:24 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:30:01 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:32:15 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:33:33 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:35:10 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:36:14 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:36:47 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:37:13 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 5:37:49 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:51:04 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:51:33 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:52:40 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:53:23 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:53:58 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:55:06 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:56:14 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:56:45 PM => Process Failed.
+ => Codes|BuildAndRun()
+Tuesday, January 29, 2019 | 6:57:50 PM => Compilation Failed D:\Libraries\Documents\Codes\UVA Arena\Volume 101\10189 - Minesweeper\10189 - Minesweeper (1).cpp => Codes|BuildAndRun()
+
+********************************************************************************
+Thursday, January 31, 2019 | 1:08:21 PM => UVA Arena started => Main Form
+Thursday, January 31, 2019 | 1:08:26 PM => Initialized all controls => Main Form
+Thursday, January 31, 2019 | 1:08:28 PM => Update Checked : This is the latest version. => Interactivity|UpdateFound()
+Thursday, January 31, 2019 | 1:08:33 PM => Downloaded problem database file => __DownloadProblemDatabaseCompleted
+Thursday, January 31, 2019 | 1:08:38 PM => Downloaded problem's categories. => __DownloadProblemCategoryCompleted
