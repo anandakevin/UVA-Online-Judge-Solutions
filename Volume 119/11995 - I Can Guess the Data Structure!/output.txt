@@ -1,5 +1,0 @@
-queue
-stack
-priority queue
-impossible
-not sure
